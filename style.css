@@ -1,0 +1,49 @@
+h1 {
+	text-align: left;
+	padding: 30px;
+	font-family: 'Permanent Marker', cursive;
+	color: rgb(58, 25, 89);
+
+}
+header {
+	background: linear-gradient(to right, rgba(101, 132, 70,0), rgba(101, 132, 70,1));
+	font-family: 'Permanent Marker', cursive;
+	margin-bottom: 85px;
+
+
+}
+
+a {
+	color: rgb(58, 25, 89);
+}
+
+a:hover {
+	color: rgba(101, 132, 70,1);
+}
+
+p {
+
+	font-family: 'Permanent Marker', cursive;
+	font-size: 20px;
+	color: rgb(249, 236, 204);
+	background-color: rgba(101, 132, 70,0.5);
+	width: 30%;
+	text-align: center;
+	margin: 0 auto;
+
+}
+body {
+	background-image: url("https://images.unsplash.com/photo-1507720708252-1ddeb1dbff34?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4cca8644745ee8c28bbe9332f8f74992&auto=format&fit=crop&w=1134&q=80");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+
+}
+
+img {
+	height: 250px;
+	width: auto;
+	margin: 50px;
+	border: solid rgb(101, 132, 70) 5px;
+	border-radius: 25px
+}
